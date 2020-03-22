@@ -1,0 +1,13 @@
+.collection-preview {
+  margin-bottom: 30px;
+
+  .title {
+    margin-bottom: 25px;
+  }
+
+  .preview {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
