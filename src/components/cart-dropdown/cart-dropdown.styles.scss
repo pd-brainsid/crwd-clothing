@@ -1,0 +1,20 @@
+.cart-dropdown {
+  position: absolute;
+  top: 70px;
+  right: 50px;
+  height: 340px;
+  width: 200px;
+  border: 2px solid black;
+  background: white;
+  z-index: 5;
+  padding: 20px;
+}
+
+.cart-items {
+  height: 240px;
+  overflow-y: scroll;
+}
+
+button {
+  margin-top: auto;
+}
