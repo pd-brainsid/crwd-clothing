@@ -1,5 +1,5 @@
 .collection-item {
-  width: 22%;
+  width: 22vw;
   height: 350px;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,7 @@
     background-position: center;
     margin-bottom: 5px;
   }
+
   .footer {
     font-size: 1.2em;
     display: flex;
