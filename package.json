@@ -9,7 +9,7 @@
     "firebase": "^7.14.2",
     "g": "^2.0.1",
     "jshint": "^2.11.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-redux": "^7.2.0",
